@@ -1,6 +1,6 @@
 # KNU_RA
 
-# Welcome to this page
+Welcome to my KNU_RA repo.
 
 There are a few topics in this repo. 
 
